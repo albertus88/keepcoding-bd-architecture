@@ -25,7 +25,7 @@ https://colab.research.google.com/drive/1d8PYQJZlv_K9C4w0s5Vw9qiXnoDjNJ9s
 
 Además, a modo de ejemplo en este repositorio están los ficheros data_test.csv y data.txt donde se pueden ver los datos a analizar.
 
-Sprint 3
+Sprint 3, Sprint 4, Sprint 5
 
 Una vez tenemos los datos guardados en sus respectivos ficheros los añadimos manualmente al google cloud platform.
 
