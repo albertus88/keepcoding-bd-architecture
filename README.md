@@ -33,5 +33,7 @@ En el siguiente link podemos ver los pasos para poder montar la arquitectura par
 
 https://colab.research.google.com/drive/1zTRRh7NIySzXmPmWLcgr-oTa13Sbx-G3
 
+En el collaboratory anterior también podemos ver comko se realiza el wordcount y como se realiza la inserción en Hive y una de las queries principales
+
 
 
