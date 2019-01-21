@@ -13,6 +13,8 @@ Sprint 1.
 
 Para ello adjunto un documento con la arquitectura planteada y un poco la explicación de los pasos para montarla y actualizarla automáticamente.
 
+https://docs.google.com/document/d/16gf1vGUC8X6QOGFchEiNoiQClA7LORtbhhcAyKIwoUY/edit
+
 Sprint 2.
 
 Una vez tenemos montada la arquitectura, pasaremos a extraer la información con un crawler de la wiki.
